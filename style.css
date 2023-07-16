@@ -15,6 +15,7 @@ ul {
   width: 100%;
 }
 
+
 li {
   float: left;
 }
@@ -36,12 +37,18 @@ li a:hover:not(.active) {
 }
 
 .Hello{
+  background-image: url("https://th.bing.com/th/id/R.7098750521a85c660ce538341d3ebd9e?rik=Eveg15rQAgI%2fjQ&riu=http%3a%2f%2fnzbirdsonline.org.nz%2fsites%2fall%2ffiles%2f1200121554021821810_4954bb6602_o.jpg&ehk=YE8zm2NL2toImVNQun0AirnvEBLpfm7hHlXrXMiTUPA%3d&risl=&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  background-position: center;
   text-align: center;
   vertical-align: middle;
   display: table-cell;
   height: 100vh;
   width: 100vw;
   background-color:#1b263b;
+}
+.Hello h1>span, p>span{
+  background-color: #897689;
 }
 .Hello h1{
   font-size: 50px;
