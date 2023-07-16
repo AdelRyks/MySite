@@ -25,7 +25,6 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  fon
 }
 
 li a:hover:not(.active) {
@@ -38,7 +37,10 @@ li a:hover:not(.active) {
 
 .Hello{
   text-align: center;
-  padding: 500px;
+  vertical-align: middle;
+  display: table-cell;
+  height: 100vh;
+  width: 100vw;
   background-color:#1b263b;
 }
 .Hello h1{
