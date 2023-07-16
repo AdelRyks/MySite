@@ -53,3 +53,26 @@ li a:hover:not(.active) {
 .Hello h1{
   font-size: 50px;
 }
+
+.Partridge{
+  vertical-align: middle;
+  display: table-cell;
+  width: 100vw;
+  background-color: #1b263b;
+}
+.Partridge h1, h2{
+  border-radius: 10px;
+  text-align: center;
+  border-style: solid;
+  border-color: #eb1f47;
+  padding: 20px;
+}
+.Partridge p{
+  border-radius: 10px;
+  padding: 20px;
+  border-style: solid;
+  border-color: #eb1f47;
+}
+.Partridge img{
+    margin-left: 25%;
+}
